@@ -26,6 +26,27 @@ h2{
     display: flex;
     margin-bottom: 100px;
 }
+.exp-container{
+    text-align: center;
+}
+.flex-container{
+    display: flex;
+    margin-bottom: 100px;
+}
+.exp{
+    text-align: left;
+}
+.exp-item{
+    width: 45%;
+    margin-right: 2%;
+    margin-left: 2%;
+    padding: 2%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+}
+.exp-item img{
+    width: 100%;
+}
 .Half-width{
     width: 50%;
     font-weight: 200;
