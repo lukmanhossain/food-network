@@ -1,5 +1,12 @@
 body{
     font-family: 'Bona Nova', serif;
+    margin: 0px;
+}
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 30px;
 }
 .Orange{
     color: orange;
@@ -21,10 +28,17 @@ body{
 }
 .Half-width{
     width: 50%;
-    font-weight: 100;
+    font-weight: 200;
+    text-align: left;
     padding: 40px 10px 10px 20px;
 }
 .Half-width img{
-    width: 50%;
-
+    width: 60%;
+    padding-left: 10px;
+}
+.B-ground{
+    background-image: url(images/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 103%;
+    margin: 0%;
 }
