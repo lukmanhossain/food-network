@@ -36,6 +36,13 @@ h2{
 .exp{
     text-align: left;
 }
+.exp-area{
+    display: flex;
+    width: 97%;
+    margin: 10px 15px;
+    border-radius: 10px;
+    box-shadow: 8px 8px 35px tomato;
+}
 .exp-item{
     width: 45%;
     margin-right: 2%;
@@ -62,4 +69,13 @@ h2{
     background-repeat: no-repeat;
     background-size: 103%;
     margin: 0%;
+}
+#exp-01{
+    padding: 10px 20px 20px 110px;
+}
+#exp-02{
+    padding: 10px 20px 20px 110px;
+}
+#exp-03{
+    padding: 10px 20px 20px 110px;
 }
